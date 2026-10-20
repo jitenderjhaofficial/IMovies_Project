@@ -1,16 +1,15 @@
-# React + Vite
+# 🎬 IMovies - Full-Stack MERN Movie Ticket Booking System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, cinematic full-stack movie ticket booking web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js), featuring real-time interactive seat selection, JWT authentication, and an admin management dashboard.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
+* **Frontend:** React.js (Vite), React Router DOM, Axios, Custom Dark-Mode UI
+* **Backend:** Node.js, Express.js, Mongoose ODM
+* **Database:** MongoDB Atlas (with automated movie seeder)
+* **Security & Auth:** bcryptjs, JSON Web Tokens (JWT)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Local Installation & Setup
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/jitenderjhaofficial/IMovies_Project.git](https://github.com/jitenderjhaofficial/IMovies_Project.git)
